@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 🙋‍♀️ #Team Members
 
@@ -11,4 +10,3 @@
 🍿 Tilak Acharya 747
 
 🧙 Bao Trieu Thai (Ethan) 206
--->
